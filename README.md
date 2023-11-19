@@ -1,2 +1,2 @@
-# -nfo
+# -info
 İnfo (İCSP)
